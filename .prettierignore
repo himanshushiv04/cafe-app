@@ -1,0 +1,14 @@
+# default
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+
+/.vscode
+/.dist
+
+
+*.env
+.env
+.env .*
